@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lucky-1300&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<!--
-**Lucky-1300/Lucky-1300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucky-1300&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-1300&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucky-1300&theme=dracula&hide_border=true"/>
+</p>
