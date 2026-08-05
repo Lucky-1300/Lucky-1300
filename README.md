@@ -1,44 +1,93 @@
 <h1 align="center">Hi 👋, I'm Lucky Ray</h1>
 
-<h3 align="center">🚀 MERN Stack Developer | BCA Student | Open Source Learner</h3>
+<h3 align="center">
+🚀 MERN Stack Developer | BCA Student | India 🇮🇳
+</h3>
 
 <p align="center">
-  🌱 Currently Learning <b>JavaScript, React, Node.js & MongoDB</b>
-</p>
-
-<p align="center">
-  💻 Passionate about Full Stack Development
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;JavaScript+Enthusiast;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
 - 🎓 BCA Student
-- 💻 MERN Stack Learner
-- 🌱 Currently learning React & Backend
-- 📫 Reach me at: **luckykumari42774@gmail.com**
+- 💻 MERN Stack Developer
+- 🌱 Currently Learning React, Node.js & MongoDB
+- 🚀 Love building Full Stack Projects
+- 📫 Email: **luckykumari42774@gmail.com**
 
 ---
 
-## 🛠️ Languages and Tools
+# 🌐 Connect With Me
 
-HTML • CSS • JavaScript • React • Node.js • Express • MongoDB • Git • GitHub • VS Code
+<p align="left">
+<a href="https://www.linkedin.com/in/lucky-ray-5a6642338/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:luckykumari42774@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/Lucky-1300">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Tech Stack
 
-![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucky-1300&show_icons=true&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind,postman,npm" />
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Lucky-1300&theme=tokyonight)
+</p>
 
 ---
 
-## 💻 Most Used Languages
+# 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-1300&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucky-1300&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-1300&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Lucky-1300&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lucky-1300&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Lucky-1300&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
