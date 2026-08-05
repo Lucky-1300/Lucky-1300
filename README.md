@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lucky Ray</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Lucky%20Ray&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">Lucky Ray</h1>
 
 <h3 align="center">
-🚀 MERN Stack Developer | BCA Student | India 🇮🇳
+Full Stack Developer • MERN Stack Learner
 </h3>
 
 <p align="center">
