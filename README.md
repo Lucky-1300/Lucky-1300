@@ -52,13 +52,6 @@ Full Stack Developer • MERN Stack Learner
 
 
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Lucky-1300&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
